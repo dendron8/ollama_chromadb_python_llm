@@ -1,4 +1,5 @@
-#prereqs for running this code:
+#working example from https://ollama.com/blog/embedding-models
+# prereqs for running this code:
 #1. download, install ollama. optionally run 'ollama serve' to start the ollama framework
 #2. run 'ollama run mxbai-embed-large' to install mxbai-embed-large model
 #3. run 'ollama run llama2' to install llama2 model
